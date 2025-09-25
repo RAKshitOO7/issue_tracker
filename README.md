@@ -115,4 +115,8 @@ source venv/bin/activate
 | PUT    | `/issues/{id}`     | Update an existing issue                        |
 | GET    | `/health`          | Check backend health status                     |
 
+## 📄 License
+
+This project is licensed under the MIT License.
+
 
